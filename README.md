@@ -13,3 +13,5 @@ the id number and the difficulty level of each of the problems (if specified in 
 getLatestContest() gives information on the nearest upcoming contest, its duration and begin date. It stores this information on 'upcoming_contest.txt'.
 
 close() simply closes the headless browser. It's recommended to close the browser after retrieving information from https://codeforces.com.
+
+All this has been implemented using selenium and csv modules in python.
